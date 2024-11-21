@@ -1,19 +1,4 @@
-# Shopping_App
-
-A new Flutter project created with FlutLab - https://flutlab.io
-
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+![Screenshot (19)](https://github.com/user-attachments/assets/99679176-b11a-4b09-84c4-1fdc88453994)
+![Screenshot (18)](https://github.com/user-attachments/assets/7303d108-7ba8-42c7-a9b6-24cd453668ab)
+![Screenshot (17)](https://github.com/user-attachments/assets/43b6047b-9d21-4a09-b720-987a99afe191)
+![Screenshot (16)](https://github.com/user-attachments/assets/07a22679-58b0-4e0a-a28b-ee8de90547b9)
